@@ -6,7 +6,9 @@ def fun1(x,y):
   return 1
 def fun2(v,d):
   return 2
+def div(x,y):
+  return x/y
   
-print('hello GIT')
+print('hello GIt')
 
 # changing the function
