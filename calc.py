@@ -7,3 +7,6 @@ def fun1(x,y):
 def fun2(v,d):
   return 2
   
+print('hello GIT')
+
+# changing the function
