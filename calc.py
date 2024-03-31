@@ -9,6 +9,6 @@ def fun2(v,d):
 def div(x,y):
   return x/y
   
-print('hello GIt 2')
+print('hello GIt not 2')
 
 # changing the function
